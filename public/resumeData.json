@@ -1,0 +1,148 @@
+{
+  "main": {
+    "name":"Adrian Pereira",
+    "description":"I'm a software developer and I use MongoDB, React, Node and Express to develop pages. This website is a resume page where I want to share some of my work",
+    "image":"profilepic.jpg",
+    "bio":"My name is Adrian Pereira, I am a lover of sports, yoga and technology. Since I was little I have a fascination with computers, I love to test operating systems, programs and the different things that I could achieve with them. I am currently developing applications and web pages, and I would like to share some of them with you.",
+    "contactmessage":"The contact form is not configured, if you want to contact me please do it by email.",
+    "email": "apereirafernandez@gmail.com",
+    "phone": "+584141626632",
+    "github":"https://github.com/apereirafernandez",
+    "project":"https://github.com/apereirafernandez?tab=repositories",
+    "address":{
+      "street":"",
+      "city":"Caracas",
+      "state":"Venezuela",
+      "zip":""
+    },
+    "website": "",
+    "resumedownload":"https://drive.google.com/file/d/11quGyyE5WhSntcUP-53m9u2NZGgl5Tte/view?usp=sharing",
+    "social":[
+      {
+        "name":"linkedin",
+        "url":"https://www.linkedin.com/in/adrianpereirafernandez/",
+        "className":"fa fa-linkedin"
+      },
+     
+      {
+        "name":"github",
+        "url":"https://github.com/apereirafernandez",
+        "className":"fa fa-github"
+      }
+    ]
+  },
+  "resume":{
+    "skillmessage":"These are some of the technologies that I have had experience with, however I'm open to learn new ones.",
+    "education":[
+      {
+        "school":"Universidad Metropolitana",
+        "degree":"Bachelor's Degree in Accounting",
+        "graduated":"",
+        "description":""
+      },
+      {
+        "school":"Universidad Metropolitana",
+        "degree":"Diploma in Coaching Skills",
+        "graduated":"",
+        "description":"Communicational competences, comprehensive coaching competences, managerial and strategic competences, coaching practices "
+
+      }
+    ],
+    "work":[
+      {
+        "company":"EKAM Technologies",
+        "title":"Software Developer ",
+        "years":"Jul 2019 - Present",
+        "description":"Techonologies include: Node.js/Express, React.js, MongoDB/Mongoose, Git/Github, Heroku, GNU/Linux, Bash/Z Shell."
+      },
+      {
+        "company":"Yogashala, HatiYoga Studio, Soham,...",
+        "title":"Yoga Teacher",
+        "years":"Jun 2016 - Present",
+        "description":""
+      }, 
+      {
+        "company":"Centro Profesional Los Cedros y Asociados",
+        "title":"Manager",
+        "years":"Jul 2013 - Jul 2019",
+        "description":"Managing HR, Accounting and Finance."
+      },
+      {
+        "company":"Centro Profesional Los Cedros y Asociados",
+        "title":"Accounting",
+        "years":"Sep 2010 - Sep 2011",
+        "description":"Counseling administrative assistance, filing tax returns, planning and budgeting control, advising customers of their rights and responsibilities as taxpayers, bookkeeping, working with journals, sales & purchase ledgers and spreadsheets, preparing financial reports"
+      }
+    ],
+    "skills":[
+      {
+        "name":"Node.js/Express",
+        "image":"node.jpg",
+        "level":"60%"
+      },
+      {
+        "name":"React.js",
+        "image":"react-seeklogo.com.svg",
+        "level":"55%"
+      },
+      {
+        "name":"MongoDB/Mongoose",
+        "image":"mongo.jpg",
+        "level":"50%"
+      },
+      {
+        "name":"Git/Github",
+        "image":"git.jpg",
+        "level":"90%"
+      },
+      {
+        "name":"Heroku",
+        "image":"heroku.jpg",
+        "level":"80%"
+      },
+      {
+        "name":"GNU/Linux",
+        "image":"linux.jpg",
+        "level":"50%"
+      },
+      {
+        "name":"Bash/Z Shell",
+        "image":"bash.jpg",
+        "level":"80%"
+      },
+      {
+        "name":"Bootstrap",
+        "image":"bootstrap.jpg"
+      }
+    ]
+  },
+  "portfolio":{
+    "projects": [
+      {
+        "title":"Keeper",
+        "category":"Keep Notes like App",
+        "image":"keeper.jpg",
+        "url":"https://github.com/apereirafernandez/keeplike"
+      },
+      {
+        "title":"Registration Screen",
+        "category":"Registration Screen Using React",
+        "image":"registrationscreen.png",
+        "url":"https://github.com/apereirafernandez/registrationscreen"
+      },
+      {
+        "title":"Todo List",
+        "category":"Todo List Using React",
+        "image":"todolist.png",
+        "url":"https://github.com/apereirafernandez/todolist"
+      },
+      {
+        "title":"Real Time Clock App",
+        "category":"React Real Time Clock App",
+        "image":"realtimeclockapp.png",
+        "url":"https://github.com/apereirafernandez/realtimeclockapp"
+      }
+
+    ]
+  }
+}
