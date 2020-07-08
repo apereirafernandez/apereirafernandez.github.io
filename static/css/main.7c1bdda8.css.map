@@ -1,0 +1,1 @@
+{"version":3,"sources":["App.css"],"names":[],"mappings":"AACA,cACI,kBACA,iBACA,iBACA,iBAAkB","file":"static/css/main.7c1bdda8.css","sourcesContent":["\n.feature-item{\n    text-align: center;\n    margin-top:2.5em;\n    padding-left:2em;\n    padding-right:2em;\n  }\n\n\n// WEBPACK FOOTER //\n// ./src/App.css"],"sourceRoot":""}
